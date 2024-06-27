@@ -2,7 +2,7 @@
 
 Welcome to my personal website repository! This site is hosted on GitHub Pages and is accessible at [namitrana.me](https://namitrana.me).
 
-## About This Site
+## About This Site 
 
 This website is designed to be minimalistic and beautiful, providing visitors with information about me, my projects, and how to contact me.
 
